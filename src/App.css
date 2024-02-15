@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.image {
+  max-height: 20px;
+}
+input {
+  max-height: 20px;
+}
+.cart-container {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.cart-total {
+  margin-left: 10px;
+  font-size: 1.2rem;
+}
